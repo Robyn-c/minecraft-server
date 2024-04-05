@@ -1,0 +1,125 @@
+{
+  "ore_mappings": {
+    "copper_ore": [
+      "minecraft:copper_ore",
+      "minecraft:deepslate_copper_ore",
+    ],
+    "pendorite_ore": [
+      "byg:pendorite_ore",
+    ],
+    "emeraldite_ore": [
+      "byg:emeraldite_ore",
+    ],
+    "gold_ore": [
+      "minecraft:gold_ore",
+      "minecraft:deepslate_gold_ore",
+    ],
+    "nether_gold_ore": [
+      "byg:brimstone_nether_gold_ore",
+      "byg:blue_nether_gold_ore",
+      "minecraft:nether_gold_ore",
+    ],
+    "redstone_ore": [
+      "byg:cryptic_redstone_ore",
+      "minecraft:redstone_ore",
+      "minecraft:deepslate_redstone_ore",
+    ],
+    "nickel_ore": [
+      "immersiveengineering:ore_nickel",
+      "immersiveengineering:deepslate_ore_nickel",
+    ],
+    "silver_ore": [
+      "immersiveengineering:ore_silver",
+      "immersiveengineering:deepslate_ore_silver",
+    ],
+    "diamond_ore": [
+      "minecraft:diamond_ore",
+      "minecraft:deepslate_diamond_ore",
+    ],
+    "iron_ore": [
+      "minecraft:iron_ore",
+      "minecraft:deepslate_iron_ore",
+    ],
+    "uranium_ore": [
+      "immersiveengineering:ore_uranium",
+      "immersiveengineering:deepslate_ore_uranium",
+    ],
+    "lapis_ore": [
+      "minecraft:lapis_ore",
+      "minecraft:deepslate_lapis_ore",
+    ],
+    "zinc_ore": [
+      "create:deepslate_zinc_ore",
+      "create:zinc_ore",
+    ],
+    "coal_ore": [
+      "minecraft:coal_ore",
+      "minecraft:deepslate_coal_ore",
+    ],
+    "lead_ore": [
+      "immersiveengineering:ore_lead",
+      "immersiveengineering:deepslate_ore_lead",
+    ],
+    "aluminum_ore": [
+      "immersiveengineering:ore_aluminum",
+      "immersiveengineering:deepslate_ore_aluminum",
+    ],
+    "anthracite_ore": [
+      "byg:anthracite_ore",
+    ],
+    "emerald_ore": [
+      "minecraft:deepslate_emerald_ore",
+      "minecraft:emerald_ore",
+    ],
+    "ametrine_ore": [
+      "byg:ametrine_ore",
+    ],
+    "quartz_ore": [
+      "byg:blue_nether_quartz_ore",
+      "byg:brimstone_nether_quartz_ore",
+      "minecraft:nether_quartz_ore",
+    ],
+  },
+  "stone_mappings": {
+    "byg_soapstone": "byg:soapstone",
+    "red_sandstone": "minecraft:red_sandstone",
+    "byg_mossy_stone": "byg:mossy_stone",
+    "quark_shale": "quark:shale",
+    "create_limestone": "create:limestone",
+    "dripstone": "minecraft:dripstone_block",
+    "calcite": "minecraft:calcite",
+    "twigs_bloodstone": "twigs:bloodstone",
+    "byg_purpur": "byg:purpur_stone",
+    "sandstone": "minecraft:sandstone",
+    "byg_travertine": "byg:travertine",
+    "basalt": "minecraft:basalt",
+    "quark_limestone": "quark:limestone",
+    "quark_jasper": "quark:jasper",
+    "end_stone": "minecraft:end_stone",
+    "byg_ether_stone": "byg:ether_stone",
+    "create_veridium": "create:veridium",
+    "byg_scoria": "byg:scoria_stone",
+    "netherrack": "minecraft:netherrack",
+    "andesite": "minecraft:andesite",
+    "diorite": "minecraft:diorite",
+    "deepslate": "minecraft:deepslate",
+    "create_crimsite": "create:crimsite",
+    "byg_blue_netherrack": "byg:blue_netherrack",
+    "twigs_rhyolite": "twigs:rhyolite",
+    "byg_dacite": "byg:dacite",
+    "create_scoria": "create:scoria",
+    "stone": "minecraft:stone",
+    "twigs_schist": "twigs:schist",
+    "smooth_basalt": "minecraft:smooth_basalt",
+    "byg_cryptic": "byg:cryptic_stone",
+    "byg_brimstone": "byg:brimstone",
+    "create_ochrum": "create:ochrum",
+    "granite": "minecraft:granite",
+    "tuff": "minecraft:tuff",
+    "byg_red_rock": "byg:red_rock",
+    "byg_rocky": "byg:rocky_stone",
+    "create_asurine": "create:asurine",
+    "blackstone": "minecraft:blackstone",
+    "create_scorchia": "create:scorchia",
+  },
+}

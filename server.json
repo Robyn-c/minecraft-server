@@ -1,0 +1,176 @@
+{
+  "name": "Better MC [FORGE] - BMC3",
+  "pack": "Better MC [FORGE] - BMC3",
+  "packId": 0,
+  "version": "BMC3 FORGE 1.19.2 Server Pack v20",
+  "isPatchedForLog4Shell": true,
+  "isDev": false,
+  "mods": [],
+  "ignoredUpdates": [],
+  "curseForgeProject": {
+    "id": 550864,
+    "name": "Better MC [FORGE] - BMC3",
+    "authors": [
+      {
+        "id": 101555282,
+        "name": "SHXRKIE",
+        "url": "https://www.curseforge.com/members/shxrkie"
+      },
+      {
+        "id": 102066281,
+        "name": "LunaPixelStudios",
+        "url": "https://www.curseforge.com/members/lunapixelstudios"
+      }
+    ],
+    "gameId": 432,
+    "summary": "Version 1.19.2 | A Proper Vanilla+ Modpack | Don't play Vanilla play this!",
+    "categories": [
+      {
+        "name": "Combat / PvP",
+        "slug": "combat-pvp",
+        "url": "https://www.curseforge.com/minecraft/modpacks/combat-pvp",
+        "dateModified": "2015-02-10T21:12:37.56Z",
+        "gameId": 432,
+        "isClass": false,
+        "id": 4483,
+        "iconUrl": "https://media.forgecdn.net/avatars/14/313/635591779575605594.png",
+        "parentCategoryId": 4471,
+        "classId": 4471
+      },
+      {
+        "name": "Exploration",
+        "slug": "exploration",
+        "url": "https://www.curseforge.com/minecraft/modpacks/exploration",
+        "dateModified": "2015-02-16T17:06:29.69Z",
+        "gameId": 432,
+        "isClass": false,
+        "id": 4476,
+        "iconUrl": "https://media.forgecdn.net/avatars/14/486/635596815896417213.png",
+        "parentCategoryId": 4471,
+        "classId": 4471
+      },
+      {
+        "name": "Adventure and RPG",
+        "slug": "adventure-and-rpg",
+        "url": "https://www.curseforge.com/minecraft/modpacks/adventure-and-rpg",
+        "dateModified": "2015-02-16T15:58:24.98Z",
+        "gameId": 432,
+        "isClass": false,
+        "id": 4475,
+        "iconUrl": "https://media.forgecdn.net/avatars/14/480/635596775049811800.png",
+        "parentCategoryId": 4471,
+        "classId": 4471
+      },
+      {
+        "name": "Vanilla+",
+        "slug": "vanilla",
+        "url": "https://www.curseforge.com/minecraft/modpacks/vanilla",
+        "dateModified": "2021-11-01T09:40:44.687Z",
+        "gameId": 432,
+        "isClass": false,
+        "id": 5128,
+        "iconUrl": "https://media.forgecdn.net/avatars/451/388/637713564446392425.png",
+        "parentCategoryId": 4471,
+        "classId": 4471
+      },
+      {
+        "name": "Quests",
+        "slug": "quests",
+        "url": "https://www.curseforge.com/minecraft/modpacks/quests",
+        "dateModified": "2015-02-16T17:06:53.797Z",
+        "gameId": 432,
+        "isClass": false,
+        "id": 4478,
+        "iconUrl": "https://media.forgecdn.net/avatars/14/487/635596816137981263.png",
+        "parentCategoryId": 4471,
+        "classId": 4471
+      }
+    ],
+    "status": 4,
+    "primaryCategoryId": 5128,
+    "classId": 4471,
+    "slug": "better-mc-forge-bmc3",
+    "isFeatured": false,
+    "dateModified": "2024-03-11T21:25:26.99Z",
+    "dateCreated": "2021-11-28T15:58:54.253Z",
+    "dateReleased": "2023-11-22T05:27:04.383Z",
+    "links": {
+      "websiteUrl": "https://www.curseforge.com/minecraft/modpacks/better-mc-forge-bmc3",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/LunaPixelStudios/Better-MC/issues"
+    },
+    "logo": {
+      "id": 595284,
+      "description": "",
+      "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/595/284/256/256/637969851390579025.png",
+      "title": "637969851390579025.png",
+      "url": "https://media.forgecdn.net/avatars/595/284/637969851390579025.png",
+      "modId": 550864
+    },
+    "allowModDistribution": true,
+    "screenshots": [
+      {
+        "id": 488402,
+        "description": "",
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/488/402/310/172/bettermcforge.png",
+        "title": "LogoB",
+        "url": "https://media.forgecdn.net/attachments/488/402/bettermcforge.png",
+        "modId": 550864
+      },
+      {
+        "id": 488401,
+        "description": "",
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/488/401/310/172/logo.png",
+        "title": "Logo",
+        "url": "https://media.forgecdn.net/attachments/488/401/logo.png",
+        "modId": 550864
+      }
+    ],
+    "mainFileId": 4889399
+  },
+  "curseForgeFile": {
+    "id": 4889426,
+    "gameId": 432,
+    "isAvailable": true,
+    "displayName": "BMC3 FORGE 1.19.2 Server Pack v20",
+    "fileName": "BMC3_FORGE_1.19.2_Server_Pack_v20.zip",
+    "releaseType": 1,
+    "fileStatus": 4,
+    "fileDate": "2023-11-22T05:27:04.383Z",
+    "fileLength": 546809913,
+    "dependencies": [],
+    "alternateFileId": 0,
+    "modules": [],
+    "isServerPack": true,
+    "hashes": [
+      {
+        "value": "a97b8b51abc8e02cad6ce8b7fedd56dbc9780778",
+        "algo": 1
+      },
+      {
+        "value": "f18104b04096c1d8293c226d5e874c2b",
+        "algo": 2
+      }
+    ],
+    "sortableGameVersions": [
+      {
+        "gameVersionPadded": "0000000001.0000000019.0000000002",
+        "gameVersion": "1.19.2",
+        "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+        "gameVersionName": "1.19.2"
+      },
+      {
+        "gameVersionPadded": "0",
+        "gameVersion": "",
+        "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+        "gameVersionName": "Forge"
+      }
+    ],
+    "gameVersions": [
+      "1.19.2",
+      "Forge"
+    ],
+    "fileFingerprint": 4171814024,
+    "modId": 550864
+  }
+}

@@ -1,0 +1,23 @@
+{
+	id: "f7713123-fa73-4b00-b75f-f4df0619a36b"
+	type: "party"
+	owner: "4e2d88f4-e719-4d54-acbe-53f622399acd"
+	ranks: {
+		b6ee678f-083c-480b-872e-3cf224708399: "officer"
+		4e2d88f4-e719-4d54-acbe-53f622399acd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Puppies"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1710969061042L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"KittyRobyn\"}]}" }
+		{ from: "4e2d88f4-e719-4d54-acbe-53f622399acd", date: 1710969061051L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"RipleyPup\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1710969076997L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"RipleyPup\"}]}" }
+		{ from: "4e2d88f4-e719-4d54-acbe-53f622399acd", date: 1710976684447L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"RipleyPup\"}]}" }
+	]
+	extra: { }
+}

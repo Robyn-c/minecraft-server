@@ -1,0 +1,349 @@
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 2024-03-20 15:14:46
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55) ~[forge-1.19.2-43.3.5-universal.jar%23575!/:?] {re:classloading,xf:MoreCrashInfoTransformerService:default,xf:MoreCrashInfoTransformerService:default}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.3.5-universal.jar%23575!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23570!/:?] {re:classloading,re:mixin,pl:mixin:A}
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.3.5.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mods: NONE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.3.5-universal.jar%23575!/:?] {re:classloading,xf:MoreCrashInfoTransformerService:default,xf:MoreCrashInfoTransformerService:default}
+-- MOD ad_astra --
+Details:
+	Mod File: /C:/Users/edmsy/AppData/Roaming/ATLauncher/servers/BetterMCFORGEBMC3/mods/ad_astra-forge-1.19.2-1.12.7.jar
+	Failure message: Mod ad_astra requires resourcefulconfig 1.0.20 or above
+		Currently, resourcefulconfig is not installed
+	Mod Version: 1.12.7
+	Mod Issue URL: https://github.com/terrarium-earth/Ad-Astra/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.3.5-universal.jar%23575!/:?] {re:classloading,xf:MoreCrashInfoTransformerService:default,xf:MoreCrashInfoTransformerService:default}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {re:mixin}
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:56) ~[forge-1.19.2-43.3.5-universal.jar%23575!/:?] {re:classloading,xf:MoreCrashInfoTransformerService:default,xf:MoreCrashInfoTransformerService:default}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.3.5-universal.jar%23575!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23570!/:?] {re:classloading,re:mixin,pl:mixin:A}
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.3.5.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 18.0.2.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 160115072 bytes (152 MiB) / 889192448 bytes (848 MiB) up to 4263510016 bytes (4066 MiB)
+	CPUs: 12
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 5 5600G with Radeon Graphics         
+	Identifier: AuthenticAMD Family 25 Model 80 Stepping 0
+	Microarchitecture: Zen 3
+	Frequency (GHz): 3.89
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: NVIDIA GeForce RTX 3060
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095.00
+	Graphics card #0 deviceId: 0x2504
+	Graphics card #0 versionInfo: DriverVersion=31.0.15.5123
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 43052.33
+	Virtual memory used (MB): 29327.62
+	Swap memory total (MB): 26794.36
+	Swap memory used (MB): 1736.20
+	JVM Flags: 0 total; 
+	Forge CoreMods: 
+		| ID    | Name                | Source                 | Status | 
+		| ----- | ------------------- | ---------------------- | ------ | 
+		| forge | field_to_method     | field_to_method.js     | Loaded | 
+		| forge | field_to_instanceof | field_to_instanceof.js | Loaded | 
+		| forge | add_bouncer_method  | add_bouncer_method.js  | Loaded | 
+	Mixin Configs: 
+		| Name                                                                 | Mixin Package                                             | Priority | Required | Targets | 
+		| -------------------------------------------------------------------- | --------------------------------------------------------- | -------- | -------- | ------- | 
+		| betterdungeons.mixins.json                                           | com.yungnickyoung.minecraft.betterdungeons.mixin.         | 1000     | true     | 6       | 
+		| betterdungeons_forge.mixins.json                                     | com.yungnickyoung.minecraft.betterdungeons.mixin.         | 1000     | true     | 0       | 
+		| easyanvils.common.mixins.json                                        | fuzs.easyanvils.mixin.                                    | 1000     | true     | 4       | 
+		| easyanvils.forge.mixins.json                                         | fuzs.easyanvils.mixin.                                    | 1000     | true     | 0       | 
+		| botarium.forge.mixins.json                                           | earth.terrarium.botarium.mixin.                           | 1000     | true     | 1       | 
+		| publicguiannouncement.mixins.json                                    | subaraki.pga.mixin.                                       | 1000     | true     | 0       | 
+		| doapi-common.mixins.json                                             | de.cristelknight.doapi.mixin.                             | 1000     | true     | 0       | 
+		| doapi.mixins.json                                                    | de.cristelknight.doapi.forge.mixin.                       | 1000     | true     | 4       | 
+		| modernfix-common.mixins.json                                         | org.embeddedt.modernfix.common.mixin.                     | 1000     | true     | 18      | 
+		| modernfix-forge.mixins.json                                          | org.embeddedt.modernfix.forge.mixin.                      | 1000     | true     | 15      | 
+		| villagersplus.mixins.json                                            | com.finallion.villagersplus.mixin.                        | 1000     | true     | 2       | 
+		| yungsapi.mixins.json                                                 | com.yungnickyoung.minecraft.yungsapi.mixin.               | 1000     | true     | 8       | 
+		| yungsapi_forge.mixins.json                                           | com.yungnickyoung.minecraft.yungsapi.mixin.               | 1000     | true     | 1       | 
+		| environmental.mixins.json                                            | com.teamabnormals.environmental.core.mixin.               | 1000     | true     | 10      | 
+		| clientcrafting.mixins.json                                           | com.clientcrafting.mixin.                                 | 1000     | false    | 0       | 
+		| vinery-common.mixins.json                                            | satisfyu.vinery.mixin.                                    | 1000     | true     | 6       | 
+		| vinery.mixins.json                                                   | satisfyu.vinery.forge.mixin.                              | 1000     | true     | 0       | 
+		| resourcepackoverrides.common.mixins.json                             | fuzs.resourcepackoverrides.mixin.                         | 1000     | true     | 0       | 
+		| resourcepackoverrides.forge.mixins.json                              | fuzs.resourcepackoverrides.mixin.                         | 1000     | true     | 0       | 
+		| guardvillagers.mixins.json                                           | tallestegg.guardvillagers.mixins.                         | 1000     | true     | 1       | 
+		| tcdcommons.client.mixins.json                                        | io.github.thecsdev.tcdcommons.client.mixin.               | 1000     | true     | 0       | 
+		| savage_and_ravage.mixins.json                                        | com.teamabnormals.savage_and_ravage.core.mixin.           | 1000     | true     | 6       | 
+		| balm.mixins.json                                                     | net.blay09.mods.balm.mixin.                               | 1000     | true     | 6       | 
+		| snowrealmagic.mixins.json                                            | snownee.snow.mixin.                                       | 1000     | true     | 0       | 
+		| whatareyouvotingfor.mixins.json                                      | com.alexander.whatareyouvotingfor.mixin.                  | 1000     | true     | 1       | 
+		| betterfortresses.mixins.json                                         | com.yungnickyoung.minecraft.betterfortresses.mixin.       | 1000     | true     | 6       | 
+		| betterfortresses_forge.mixins.json                                   | com.yungnickyoung.minecraft.betterfortresses.mixin.       | 1000     | true     | 0       | 
+		| leavesbegone.common.mixins.json                                      | fuzs.leavesbegone.mixin.                                  | 1000     | true     | 3       | 
+		| revampedwolf.mixins.json                                             | baguchan.revampedwolf.mixin.                              | 1000     | true     | 2       | 
+		| supplementaries-common.mixins.json                                   | net.mehvahdjukaar.supplementaries.mixins.                 | 1000     | true     | 43      | 
+		| supplementaries.mixins.json                                          | net.mehvahdjukaar.supplementaries.mixins.forge.           | 1000     | true     | 18      | 
+		| rubidium.mixins.json                                                 | me.jellysquid.mods.sodium.mixin.                          | 1000     | true     | 0       | 
+		| upgradednetherite.mixins.json                                        | com.rolfmao.upgradednetherite.mixin.                      | 1000     | true     | 2       | 
+		| lmft-common.mixins.json                                              | io.wispforest.lmft.mixin.                                 | 1000     | true     | 1       | 
+		| lmft.mixins.json                                                     | io.wispforest.lmft.forge.mixin.                           | 1000     | true     | 0       | 
+		| structure_gel.mixins.json                                            | com.legacy.structure_gel.core.mixin.                      | 1000     | true     | 10      | 
+		| handcrafted-common.mixins.json                                       | earth.terrarium.handcrafted.mixin.                        | 1000     | true     | 2       | 
+		| handcrafted.mixins.json                                              | earth.terrarium.handcrafted.mixin.forge.                  | 1000     | true     | 0       | 
+		| bcc.mixins.json                                                      | dev.wuffs.bcc.mixins.                                     | 1000     | true     | 2       | 
+		| repurposed_structures.mixins.json                                    | com.telepathicgrunt.repurposedstructures.mixin.           | 1000     | true     | 25      | 
+		| goodending.mixins.json                                               | net.orcinus.goodending.mixin.                             | 1000     | true     | 11      | 
+		| dungeons_plus.mixins.json                                            | com.legacy.dungeons_plus.mixin.                           | 1000     | true     | 2       | 
+		| transparent-common.mixins.json                                       | com.trikzon.transparent.mixin.                            | 1000     | true     | 0       | 
+		| yungsbridges.mixins.json                                             | com.yungnickyoung.minecraft.yungsbridges.mixin.           | 1000     | true     | 1       | 
+		| yungsbridges_forge.mixins.json                                       | com.yungnickyoung.minecraft.yungsbridges.mixin.           | 1000     | true     | 0       | 
+		| highlighter.mixins.json                                              | com.anthonyhilyard.highlighter.mixin.                     | 1000     | true     | 0       | 
+		| curios.mixins.json                                                   | top.theillusivec4.curios.mixin.core.                      | 1000     | true     | 6       | 
+		| sparsestructuresreforged.mixins.json                                 | com.teampotato.sparsestructuresreforged.mixin.            | 1000     | true     | 1       | 
+		| cumulus_menus.mixins.json                                            | com.aetherteam.cumulus.mixin.mixins.                      | 1000     | true     | 0       | 
+		| netherchested.common.mixins.json                                     | fuzs.netherchested.mixin.                                 | 1000     | true     | 0       | 
+		| betterendisland.mixins.json                                          | com.yungnickyoung.minecraft.betterendisland.mixin.        | 1000     | true     | 7       | 
+		| betterendisland_forge.mixins.json                                    | com.yungnickyoung.minecraft.betterendisland.mixin.        | 1000     | true     | 0       | 
+		| nitrogen_internals.mixins.json                                       | com.aetherteam.nitrogen.mixin.mixins.                     | 1000     | true     | 0       | 
+		| l2library.mixins.json                                                | dev.xkmc.l2library.mixin.                                 | 1000     | true     | 1       | 
+		| windswept.mixins.json                                                | com.rosemods.windswept.core.mixin.                        | 1000     | true     | 16      | 
+		| bettermineshafts.mixins.json                                         | com.yungnickyoung.minecraft.bettermineshafts.mixin.       | 1000     | true     | 4       | 
+		| bettermineshafts_forge.mixins.json                                   | com.yungnickyoung.minecraft.bettermineshafts.mixin.       | 1000     | true     | 0       | 
+		| veinmining.mixins.json                                               | com.illusivesoulworks.veinmining.mixin.core.              | 1000     | true     | 2       | 
+		| betterjungletemples.mixins.json                                      | com.yungnickyoung.minecraft.betterjungletemples.mixin.    | 1000     | true     | 7       | 
+		| betterjungletemples_forge.mixins.json                                | com.yungnickyoung.minecraft.betterjungletemples.mixin.    | 1000     | true     | 0       | 
+		| kiwi.mixins.json                                                     | snownee.kiwi.mixin.                                       | 1000     | true     | 13      | 
+		| ftblibrary-common.mixins.json                                        | dev.ftb.mods.ftblibrary.core.mixin.common.                | 1000     | true     | 4       | 
+		| attributefix.mixins.json                                             | net.darkhax.attributefix.mixin.                           | 1000     | true     | 1       | 
+		| visualworkbench.common.mixins.json                                   | fuzs.visualworkbench.mixin.                               | 1000     | true     | 2       | 
+		| goblintraders.mixins.json                                            | com.mrcrayfish.goblintraders.mixin.                       | 1000     | true     | 5       | 
+		| caelus.mixins.json                                                   | top.theillusivec4.caelus.mixin.core.                      | 1000     | true     | 2       | 
+		| paxi.mixins.json                                                     | com.yungnickyoung.minecraft.paxi.mixin.                   | 1000     | true     | 1       | 
+		| paxi_forge.mixins.json                                               | com.yungnickyoung.minecraft.paxi.mixin.                   | 1000     | true     | 1       | 
+		| upgrade_aquatic.mixins.json                                          | com.teamabnormals.upgrade_aquatic.core.mixin.             | 1000     | true     | 5       | 
+		| immersive_weathering-common.mixins.json                              | com.ordana.immersive_weathering.mixins.                   | 1000     | true     | 22      | 
+		| immersive_weathering.mixins.json                                     | com.ordana.immersive_weathering.mixins.forge.             | 1000     | true     | 5       | 
+		| fullstackwatchdog-common.mixins.json                                 | com.telepathicgrunt.fullstackwatchdog.mixins.             | 1000     | true     | 1       | 
+		| epherolib.mixins.json                                                | com.epherical.epherolib.mixin.                            | 1000     | true     | 0       | 
+		| sereneseasons.mixins.json                                            | sereneseasons.mixin.                                      | 1000     | true     | 1       | 
+		| smarterfarmers-common.mixins.json                                    | net.mehvahdjukaar.smarterfarmers.mixins.                  | 1000     | true     | 3       | 
+		| smarterfarmers.mixins.json                                           | net.mehvahdjukaar.smarterfarmers.mixins.forge.            | 1000     | true     | 1       | 
+		| neruina-common.mixins.json                                           | com.bawnorton.neruina.mixin.                              | 1000     | true     | 7       | 
+		| neruina.mixins.json                                                  | com.bawnorton.neruina.forge.mixin.                        | 1000     | true     | 0       | 
+		| starlight.mixins.json                                                | ca.spottedleaf.starlight.mixin.                           | 1000     | true     | 11      | 
+		| memoryleakfix.mixins.json                                            | ca.fxco.memoryleakfix.mixin.                              | 1000     | true     | 4       | 
+		| neapolitan.mixins.json                                               | com.teamabnormals.neapolitan.core.mixin.                  | 1000     | true     | 5       | 
+		| smoothchunk.mixins.json                                              | com.smoothchunk.mixin.                                    | 1000     | false    | 3       | 
+		| terrablender.mixins.json                                             | terrablender.mixin.                                       | 1000     | true     | 4       | 
+		| terrablender_forge.mixins.json                                       | terrablender.mixin.                                       | 1000     | true     | 1       | 
+		| nochatreports.mixins.json                                            | com.aizistral.nochatreports.mixins.                       | 1000     | true     | 7       | 
+		| mindfuldarkness.common.mixins.json                                   | fuzs.mindfuldarkness.mixin.                               | 1000     | true     | 0       | 
+		| corgilib.mixins.json                                                 | corgitaco.corgilib.mixin.                                 | 1000     | true     | 6       | 
+		| corgilib.forge.mixins.json                                           | corgitaco.corgilib.mixin.                                 | 1000     | true     | 0       | 
+		| fastpaintings.mixins.json                                            | net.mehvahdjukaar.fastpaintings.mixins.                   | 1000     | true     | 1       | 
+		| fastpaintings-forge.mixins.json                                      | net.mehvahdjukaar.fastpaintings.mixins.forge.             | 1000     | true     | 0       | 
+		| aeroblender.mixins.json                                              | teamrazor.aeroblender.mixin.                              | 1000     | true     | 7       | 
+		| personality.mixins.json                                              | com.teamabnormals.personality.core.mixin.                 | 1000     | true     | 3       | 
+		| betterfpsdist.mixins.json                                            | com.betterfpsdist.mixin.                                  | 1000     | false    | 0       | 
+		| paintings.mixins.json                                                | subaraki.paintings.mixin.                                 | 1000     | true     | 1       | 
+		| paintings.forge.mixins.json                                          | subaraki.paintings.mixin.                                 | 1000     | true     | 0       | 
+		| ecologics-common.mixins.json                                         | samebutdifferent.ecologics.mixin.                         | 1000     | true     | 3       | 
+		| ecologics.mixins.json                                                | samebutdifferent.ecologics.mixin.forge.                   | 1000     | true     | 2       | 
+		| polymorph.mixins.json                                                | com.illusivesoulworks.polymorph.mixin.core.               | 1000     | true     | 7       | 
+		| polymorph-integrations.forge.mixins.json                             | com.illusivesoulworks.polymorph.mixin.integration.        | 1000     | false    | 0       | 
+		| almostunified-common.mixins.json                                     | com.almostreliable.unified.mixin.                         | 1000     | true     | 4       | 
+		| backpacked.mixins.json                                               | com.mrcrayfish.backpacked.mixin.                          | 1000     | true     | 13      | 
+		| redirector.mixins.json                                               | com.teampotato.redirector.mixin.                          | 1000     | false    | 79      | 
+		| redirector-forge.mixins.json                                         | com.teampotato.redirector.forge.mixin.                    | 1000     | false    | 8       | 
+		| canary.mixins.json                                                   | com.abdelaziz.canary.mixin.                               | 1000     | true     | 88      | 
+		| biomemusic.mixins.json                                               | com.biomemusic.mixin.                                     | 1000     | false    | 0       | 
+		| visuality.mixins.json                                                | plus.dragons.visuality.mixin.                             | 1000     | true     | 0       | 
+		| puzzleslib.common.mixins.json                                        | fuzs.puzzleslib.mixin.                                    | 1000     | true     | 0       | 
+		| puzzleslib.forge.mixins.json                                         | fuzs.puzzleslib.mixin.                                    | 1000     | true     | 6       | 
+		| byg.mixins.json                                                      | potionstudios.byg.mixin.                                  | 1000     | true     | 89      | 
+		| byg_forge.mixins.json                                                | potionstudios.byg.mixin.                                  | 1000     | true     | 0       | 
+		| reeses-sodium-options.mixins.json                                    | me.flashyreese.mods.reeses_sodium_options.mixin.          | 1000     | true     | 0       | 
+		| aether_redux.mixins.json                                             | net.zepalesque.redux.mixin.                               | 1000     | true     | 30      | 
+		| chunksending.mixins.json                                             | com.chunksending.mixin.                                   | 1000     | false    | 2       | 
+		| ad_astra-common.mixins.json                                          | earth.terrarium.ad_astra.mixin.                           | 1000     | true     | 27      | 
+		| ad_astra.mixins.json                                                 | earth.terrarium.ad_astra.mixin.forge.                     | 1000     | true     | 2       | 
+		| blue_skies.mixins.json                                               | com.legacy.blue_skies.mixin.                              | 1000     | true     | 12      | 
+		| netherportalfix.mixins.json                                          | net.blay09.mods.netherportalfix.mixin.                    | 1000     | true     | 3       | 
+		| v_slab_compat-common.mixins.json                                     | net.mehvahdjukaar.vsc.mixins.                             | 1000     | true     | 0       | 
+		| v_slab_compat.mixins.json                                            | net.mehvahdjukaar.vsc.mixins.forge.                       | 1000     | true     | 1       | 
+		| betterwitchhuts.mixins.json                                          | com.yungnickyoung.minecraft.betterwitchhuts.mixin.        | 1000     | true     | 5       | 
+		| betterwitchhuts_forge.mixins.json                                    | com.yungnickyoung.minecraft.betterwitchhuts.mixin.        | 1000     | true     | 0       | 
+		| recipeessentials.mixins.json                                         | com.recipeessentials.mixin.                               | 1000     | false    | 9       | 
+		| aether.mixins.json                                                   | com.aetherteam.aether.mixin.mixins.                       | 1000     | true     | 26      | 
+		| galosphere.mixins.json                                               | net.orcinus.galosphere.mixin.                             | 1000     | true     | 8       | 
+		| betteroceanmonuments.mixins.json                                     | com.yungnickyoung.minecraft.betteroceanmonuments.mixin.   | 1000     | true     | 5       | 
+		| betteroceanmonuments_forge.mixins.json                               | com.yungnickyoung.minecraft.betteroceanmonuments.mixin.   | 1000     | true     | 0       | 
+		| connectivity.mixins.json                                             | com.connectivity.mixin.                                   | 1000     | false    | 15      | 
+		| gpumemleakfix.mixins.json                                            | com.gpumemleakfix.mixin.                                  | 1000     | false    | 0       | 
+		| kleeslabs.mixins.json                                                | net.blay09.mods.kleeslabs.mixin.                          | 1000     | true     | 0       | 
+		| mixin.excavated_variants_forge.json                                  | io.github.lukebemish.excavated_variants.forge.mixin.      | 1000     | true     | 1       | 
+		| mixin.excavated_variants.json                                        | io.github.lukebemish.excavated_variants.mixin.            | 1000     | true     | 4       | 
+		| structureessentials.mixins.json                                      | com.structureessentials.mixin.                            | 1000     | false    | 7       | 
+		| villagernames_forge.mixins.json                                      | com.natamus.villagernames.forge.mixin.                    | 1000     | true     | 0       | 
+		| citadel.mixins.json                                                  | com.github.alexthe666.citadel.mixin.                      | 1000     | true     | 9       | 
+		| lootintegrations.mixins.json                                         | com.lootintegrations.mixin.                               | 1000     | false    | 1       | 
+		| bookshelf.common.mixins.json                                         | net.darkhax.bookshelf.mixin.                              | 1000     | true     | 16      | 
+		| bookshelf.forge.mixins.json                                          | net.darkhax.bookshelf.mixin.                              | 1000     | true     | 1       | 
+		| twigs.mixins.json                                                    | com.ninni.twigs.mixin.                                    | 1000     | true     | 5       | 
+		| dolt_compat.mixins.json                                              | com.dolthhaven.doltcompat.core.mixin.                     | 1000     | true     | 13      | 
+		| takesapillage.mixins.json                                            | com.izofar.takesapillage.mixin.                           | 1000     | true     | 3       | 
+		| bygonenether.mixins.json                                             | com.izofar.bygonenether.mixin.                            | 1000     | true     | 7       | 
+		| carryon.mixins.json                                                  | tschipp.carryon.mixin.                                    | 1000     | true     | 3       | 
+		| carryon.forge.mixins.json                                            | tschipp.carryon.mixin.                                    | 1000     | true     | 0       | 
+		| shieldexp.mixins.json                                                | org.infernalstudios.shieldexp.mixin.                      | 1000     | true     | 2       | 
+		| dragonmounts.mixins.json                                             | com.github.kay9.dragonmounts.mixins.                      | 1000     | true     | 2       | 
+		| konkrete.mixin.json                                                  | de.keksuccino.konkrete.mixin.client.                      | 1000     | true     | 0       | 
+		| farmersdelight.mixins.json                                           | vectorwing.farmersdelight.common.mixin.                   | 1000     | true     | 7       | 
+		| cataclysm.mixins.json                                                | com.github.L_Ender.cataclysm.mixin.                       | 1000     | true     | 5       | 
+		| memorysettings.mixins.json                                           | com.memorysettings.mixin.                                 | 1000     | false    | 0       | 
+		| despawn_tweaker.mixins.json                                          | com.teampotato.despawn_tweaker.mixin.                     | 1000     | true     | 1       | 
+		| patchouli_xplat.mixins.json                                          | vazkii.patchouli.mixin.                                   | 1000     | true     | 1       | 
+		| collective_forge.mixins.json                                         | com.natamus.collective.forge.mixin.                       | 1000     | true     | 1       | 
+		| pet_cemetery.mixins.json                                             | com.teamabnormals.pet_cemetery.core.mixin.                | 1000     | true     | 2       | 
+		| nightconfigfixes.forge.mixins.json                                   | fuzs.nightconfigfixes.mixin.                              | 1000     | true     | 2       | 
+		| betterstrongholds.mixins.json                                        | com.yungnickyoung.minecraft.betterstrongholds.mixin.      | 1000     | true     | 3       | 
+		| betterstrongholds_forge.mixins.json                                  | com.yungnickyoung.minecraft.betterstrongholds.mixin.      | 1000     | true     | 0       | 
+		| spirit.common.mixins.json                                            | me.codexadrian.spirit.mixin.                              | 1000     | true     | 4       | 
+		| starterkit_forge.mixins.json                                         | com.natamus.starterkit.forge.mixin.                       | 1000     | true     | 0       | 
+		| twilightdelight.mixins.json                                          | dev.xkmc.twilightdelight.mixin.                           | 1000     | true     | 12      | 
+		| architectury.mixins.json                                             | dev.architectury.mixin.forge.                             | 1000     | true     | 5       | 
+		| architectury-common.mixins.json                                      | dev.architectury.mixin.                                   | 1000     | true     | 9       | 
+		| boatbreakfix.mixins.json                                             | elocindev.boatbreakfix.forge.mixin.                       | 1000     | true     | 1       | 
+		| mixins.deeperdarker.json                                             | com.kyanite.deeperdarker.mixin.                           | 1000     | true     | 17      | 
+		| cupboard.mixins.json                                                 | com.cupboard.mixin.                                       | 1000     | false    | 4       | 
+		| serverbrowser.mixins.json                                            | com.epherical.serverbrowser.mixin.                        | 1000     | true     | 0       | 
+		| debugify-common.mixins.json                                          | dev.isxander.debugify.mixins.                             | 1000     | true     | 28      | 
+		| debugify.mixins.json                                                 | dev.isxander.debugify.forge.mixins.                       | 1000     | true     | 0       | 
+		| incubation.mixins.json                                               | com.teamabnormals.incubation.core.mixin.                  | 1000     | true     | 1       | 
+		| tradingpost.common.mixins.json                                       | fuzs.tradingpost.mixin.                                   | 1000     | true     | 2       | 
+		| biomemakeover-common.mixins.json                                     | party.lemons.biomemakeover.mixin.                         | 1000     | true     | 43      | 
+		| biomemakeover-forge.mixins.json                                      | party.lemons.biomemakeover.mixin.forge.                   | 1000     | true     | 5       | 
+		| buzzier_bees.mixins.json                                             | com.teamabnormals.buzzier_bees.core.mixin.                | 1000     | true     | 3       | 
+		| easymagic.common.mixins.json                                         | fuzs.easymagic.mixin.                                     | 1000     | true     | 3       | 
+		| itemfilters-common.mixins.json                                       | dev.latvian.mods.itemfilters.core.mixin.common.           | 1000     | true     | 1       | 
+		| xlpackets.mixins.json                                                | tfar.xlpackets.mixin.                                     | 1000     | true     | 3       | 
+		| conjurer_illager.mixins.json                                         | com.legacy.conjurer_illager.mixin.                        | 1000     | true     | 1       | 
+		| waystones.mixins.json                                                | net.blay09.mods.waystones.mixin.                          | 1000     | true     | 3       | 
+		| clumps.mixins.json                                                   | com.blamejared.clumps.mixin.                              | 1000     | true     | 1       | 
+		| comforts.mixins.json                                                 | com.illusivesoulworks.comforts.mixin.                     | 1000     | true     | 1       | 
+		| alternate-current.mixins.json                                        | alternate.current.mixin.                                  | 1000     | true     | 2       | 
+		| decorative_blocks.mixins.json                                        | lilypuree.decorative_blocks.mixin.                        | 1000     | true     | 6       | 
+		| everycomp-common.mixins.json                                         | net.mehvahdjukaar.every_compat.mixins.                    | 1000     | true     | 1       | 
+		| netherdepthsupgrade.mixins.json                                      | com.scouter.netherdepthsupgrade.mixin.                    | 1000     | true     | 0       | 
+		| blueprint.mixins.json                                                | com.teamabnormals.blueprint.core.mixin.                   | 1000     | true     | 21      | 
+		| toofast.mixins.json                                                  | noobanidus.mods.toofast.mixins.                           | 1000     | true     | 1       | 
+		| friendsandfoes-common.mixins.json                                    | com.faboslav.friendsandfoes.mixin.                        | 1000     | true     | 37      | 
+		| friendsandfoes.mixins.json                                           | com.faboslav.friendsandfoes.mixin.forge.                  | 1000     | true     | 1       | 
+		| illagersweararmor.mixins.json                                        | tallestegg.illagersweararmor.mixins.                      | 1000     | true     | 3       | 
+		| mixin.dynamic_asset_generator_forge.json                             | io.github.lukebemish.dynamic_asset_generator.forge.mixin. | 1000     | true     | 1       | 
+		| mixin.dynamic_asset_generator.json                                   | io.github.lukebemish.dynamic_asset_generator.mixin.       | 1000     | true     | 3       | 
+		| moonlight-common.mixins.json                                         | net.mehvahdjukaar.moonlight.core.mixins.                  | 1000     | true     | 21      | 
+		| moonlight.mixins.json                                                | net.mehvahdjukaar.moonlight.core.mixins.forge.            | 1000     | true     | 5       | 
+		| mixins.gardens_of_the_dead.common.json                               | gardensofthedead.mixin.                                   | 1000     | true     | 2       | 
+		| magnumtorch.common.mixins.json                                       | fuzs.magnumtorch.mixin.                                   | 1000     | true     | 0       | 
+		| snowyspirit-common.mixins.json                                       | net.mehvahdjukaar.snowyspirit.mixins.                     | 1000     | true     | 4       | 
+		| snowyspirit.mixins.json                                              | net.mehvahdjukaar.snowyspirit.mixins.forge.               | 1000     | true     | 2       | 
+		| another_furniture-common.mixins.json                                 | com.starfish_studios.another_furniture.mixin.             | 1000     | true     | 1       | 
+		| another_furniture.mixins.json                                        | com.starfish_studios.another_furniture.mixin.forge.       | 1000     | true     | 2       | 
+		| creativecore.mixins.json                                             | team.creative.creativecore.mixin.                         | 1000     | true     | 0       | 
+		| creativecore.forge.mixins.json                                       | team.creative.creativecore.mixin.                         | 1000     | true     | 0       | 
+		| nethersdelight.mixins.json                                           | umpaz.nethersdelight.common.mixin.                        | 1000     | true     | 4       | 
+		| barteringstation.common.mixins.json                                  | fuzs.barteringstation.mixin.                              | 1000     | true     | 1       | 
+		| betterstats.client.mixin.json                                        | io.github.thecsdev.betterstats.client.mixin.              | 1000     | true     | 0       | 
+		| betterstats.client.mixin.trackers.json                               | io.github.thecsdev.betterstats.client.mixin.trackers.     | 1000     | true     | 0       | 
+		| rottencreatures-common.mixins.json                                   | com.github.teamfusion.rottencreatures.mixin.              | 1000     | true     | 13      | 
+		| rottencreatures.mixins.json                                          | com.github.teamfusion.rottencreatures.mixin.forge.        | 1000     | true     | 0       | 
+		| iceberg.mixins.json                                                  | com.anthonyhilyard.iceberg.mixin.                         | 1000     | true     | 2       | 
+		| quark.mixins.json                                                    | vazkii.quark.mixin.                                       | 1000     | true     | 67      | 
+		| quark_integrations.mixins.json                                       | vazkii.quark.integration.mixin.                           | 1000     | false    | 0       | 
+		| abnormals_delight.mixins.json                                        | com.teamabnormals.abnormals_delight.core.mixin.           | 1000     | true     | 1       | 
+		| spruceui.mixins.json                                                 | dev.lambdaurora.spruceui.mixin.                           | 1000     | true     | 0       | 
+		| diagonalfences.common.mixins.json                                    | fuzs.diagonalfences.mixin.                                | 1000     | true     | 0       | 
+		| diagonalfences.forge.mixins.json                                     | fuzs.diagonalfences.mixin.                                | 1000     | true     | 0       | 
+		| betterchunkloading.mixins.json                                       | com.betterchunkloading.mixin.                             | 1000     | false    | 4       | 
+		| bettertridents.common.mixins.json                                    | fuzs.bettertridents.mixin.                                | 1000     | true     | 0       | 
+		| ferritecore.predicates.mixin.json                                    | malte0811.ferritecore.mixin.predicates.                   | 1000     | true     | 0       | 
+		| ferritecore.fastmap.mixin.json                                       | malte0811.ferritecore.mixin.fastmap.                      | 1000     | true     | 1       | 
+		| ferritecore.mrl.mixin.json                                           | malte0811.ferritecore.mixin.mrl.                          | 1000     | true     | 0       | 
+		| ferritecore.dedupmultipart.mixin.json                                | malte0811.ferritecore.mixin.dedupmultipart.               | 1000     | true     | 0       | 
+		| ferritecore.blockstatecache.mixin.json                               | malte0811.ferritecore.mixin.blockstatecache.              | 1000     | true     | 8       | 
+		| ferritecore.dedupbakedquad.mixin.json                                | malte0811.ferritecore.mixin.dedupbakedquad.               | 1000     | true     | 0       | 
+		| ferritecore.threaddetec.mixin.json                                   | malte0811.ferritecore.mixin.threaddetec.                  | 1000     | true     | 0       | 
+		| charmofundying.mixins.json                                           | com.illusivesoulworks.charmofundying.mixin.               | 1000     | true     | 1       | 
+		| mixinextras.init.mixins.json                                         | com.llamalad7.mixinextras.platform.forge.mixins.          | 1000     | false    | 0       | 
+		| mixinsquared.init.mixins.json                                        | com.bawnorton.mixinsquared.platform.forge.mixins.         | 1000     | false    | 0       | 
+		| assets/sound_physics_remastered/sound_physics_remastered.mixins.json | com.sonicether.soundphysics.mixin.                        | 1000     | true     | 3       | 
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar MoreCrashInfoTransformerService TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		javafml@null
+		kotlinforforge@3.12.0
+		lowcodefml@null
+	Mod List: 
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |NONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.3.5-universal.jar                 |Forge                         |forge                         |43.3.5              |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
