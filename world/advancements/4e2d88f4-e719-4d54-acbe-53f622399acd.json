@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_brick_tiles_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-03-20 17:53:20 -0400"
@@ -38,6 +44,12 @@
   "railways:recipes/railways/crafting/track_switch_brass": {
     "criteria": {
       "has_item": "2024-03-27 18:23:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -245,6 +257,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/red_short_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-03-20 17:39:50 -0400"
@@ -347,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-03-20 22:15:26 -0400"
@@ -359,9 +383,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-04-03 22:44:50 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_short_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "twigs:recipes/bamboo_mat": {
     "criteria": {
       "has_bamboo": "2024-03-25 21:25:06 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_brick_stairs_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -380,6 +422,12 @@
   "woodworks:recipes/building_blocks/dark_oak_planks_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-03-20 17:07:52 -0400"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/deepslate_castel_tile_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -720,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/andesite_sheet_metal_from_andesite_casing_stonecutting": {
     "criteria": {
       "has_andesite_casing": "2024-04-01 23:04:37 -0400"
@@ -1056,6 +1110,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/deepslate_castel_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/black_terracotta_brick_slab": {
     "criteria": {
       "has_black_terracotta_bricks": "2024-03-27 21:36:14 -0400"
@@ -1065,6 +1125,12 @@
   "cfm:recipes/cfm/orange_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-03-29 00:03:25 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -1206,6 +1272,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_bricks": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2024-03-20 17:46:29 -0400"
@@ -1221,6 +1293,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-03-25 21:18:38 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_brick_slab_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -1479,6 +1557,12 @@
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2024-03-25 22:34:15 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -1925,6 +2009,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_short_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-03-20 23:06:03 -0400"
@@ -2096,6 +2186,12 @@
   "everycomp:recipes/everycomp/sd/windswept/chestnut_full_drawers_1": {
     "criteria": {
       "has_planks": "2024-03-26 16:44:25 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -2306,6 +2402,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-03-20 22:01:53 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -2651,6 +2753,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/decorations/light_gray_terracotta_brick_wall_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-03-24 19:50:13 -0400"
@@ -2744,6 +2852,12 @@
   "upgradednetherite:recipes/essences/feather_essence": {
     "criteria": {
       "has_feather": "2024-03-25 22:39:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -2841,6 +2955,12 @@
   "woodworks:recipes/building_blocks/mangrove_boards": {
     "criteria": {
       "has_mangrove_planks": "2024-03-28 22:40:46 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_long_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -3447,6 +3567,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/deepslate_castel_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/cfm/quark/blossom_park_bench": {
     "criteria": {
       "has_planks": "2024-03-31 22:23:40 -0400"
@@ -3849,6 +3975,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_long_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/mcfur/quark/stripped_blossom_bookshelf_cupboard": {
     "criteria": {
       "has_planks": "2024-03-31 22:23:40 -0400"
@@ -3882,6 +4014,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/rimestone_wall_stonecutting_rimestone": {
     "criteria": {
       "has_item": "2024-03-28 23:28:45 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_short_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -4071,6 +4209,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/frozen_bench": {
     "criteria": {
       "has_iron_ingot": "2024-03-20 17:31:16 -0400"
@@ -4122,6 +4266,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2024-03-25 21:18:38 -0400"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/deepslate_castel_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -4563,6 +4713,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/deepslate_castel_tile_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/nether_bricks": {
     "criteria": {
       "has_copper_block": "2024-03-21 12:51:52 -0400"
@@ -4584,6 +4740,12 @@
   "twigs:recipes/bamboo_thatch/bamboo_thatch": {
     "criteria": {
       "has_bamboo_leaves": "2024-03-25 21:25:06 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -4719,6 +4881,12 @@
     },
     "done": true
   },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2024-04-04 17:50:14 -0400"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2024-03-20 22:53:40 -0400"
@@ -4788,6 +4956,12 @@
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-03-20 18:32:31 -0400"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_light_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-04-03 22:29:41 -0400"
     },
     "done": true
   },
@@ -4977,6 +5151,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-04-04 21:08:00 -0400"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/mangrove_chest": {
     "criteria": {
       "has_item": "2024-03-24 19:50:30 -0400"
@@ -5040,6 +5220,18 @@
   "create:recipes/create.base/crafting/appliances/filter_clear": {
     "criteria": {
       "has_item": "2024-03-23 22:46:27 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_brick_vertical_slab_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/deepslate_castel_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -5487,6 +5679,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/decorations/light_gray_terracotta_wall": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_picket_gate": {
     "criteria": {
       "has_gate": "2024-03-26 17:41:55 -0400"
@@ -5775,6 +5973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-04-03 22:30:25 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/cfm/quark/blossom_cabinet": {
     "criteria": {
       "has_planks": "2024-03-31 22:23:40 -0400"
@@ -5955,6 +6159,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/deepslate_castel_tiles_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-03-20 23:06:03 -0400"
@@ -5982,6 +6192,12 @@
   "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-03-20 17:10:52 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_stairs_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -6357,6 +6573,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-04-03 22:29:41 -0400"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/dripstone_castel_tile_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-03-20 23:34:49 -0400"
@@ -6501,6 +6723,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-03-20 17:32:40 -0400"
@@ -6540,6 +6768,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_to_ingot_lead": {
     "criteria": {
       "has_storage_lead": "2024-03-29 00:02:38 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks": {
+    "criteria": {
+      "has_item": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -6651,6 +6885,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/red_brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-03-20 17:39:50 -0400"
@@ -6747,6 +6987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-03-20 22:01:53 -0400"
@@ -6792,6 +7038,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-03-24 22:10:49 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_long_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -6954,6 +7206,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-03-20 20:19:52 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_long_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -7181,6 +7439,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/farmersdelight/egg_sandwich": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 20:52:04 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2024-03-20 17:31:17 -0400"
@@ -7358,6 +7622,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-03-20 17:19:12 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/chiseled_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -7805,6 +8075,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-04-04 21:02:46 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_shingle_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-03-20 17:18:57 -0400"
@@ -8057,6 +8333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-04-03 22:29:41 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/mcfur/windswept/stripped_chestnut_desk": {
     "criteria": {
       "has_planks": "2024-03-26 16:44:26 -0400"
@@ -8261,6 +8543,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/mixed_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-03-20 22:15:26 -0400"
@@ -8402,6 +8690,12 @@
   "createdeco:recipes/createdeco.bricks/cracked_worn_long_bricks_slab_from_cracked_worn_long_bricks_stonecutting": {
     "criteria": {
       "has_cracked_worn_long_bricks": "2024-04-01 22:11:51 -0400"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2024-04-04 21:51:45 -0400"
     },
     "done": true
   },
@@ -8853,6 +9147,12 @@
   "createdeco:recipes/createdeco.bricks/mossy_worn_short_bricks_wall_from_worn_bricks_stonecutting": {
     "criteria": {
       "has_worn_bricks": "2024-04-01 22:11:28 -0400"
+    },
+    "done": true
+  },
+  "chipped:recipes/glassblower": {
+    "criteria": {
+      "has_glassblower": "2024-04-04 18:15:44 -0400"
     },
     "done": true
   },
@@ -9318,9 +9618,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/red_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/andesite_hull": {
     "criteria": {
       "has_item": "2024-04-01 21:44:33 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/light_gray_glazed_terracotta_from_baking": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -9564,6 +9876,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/worn_brick_from_brick_blasting": {
+    "criteria": {
+      "has_brick": "2024-04-04 18:15:26 -0400"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/palm_sign": {
     "criteria": {
       "has_planks": "2024-03-21 18:33:48 -0400"
@@ -9738,6 +10056,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/jungle_beehive": {
     "criteria": {
       "has_honeycomb": "2024-03-31 21:46:19 -0400"
@@ -9783,6 +10107,12 @@
   "create:compacting": {
     "criteria": {
       "0": "2024-03-25 00:41:30 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/cracked_bricks": {
+    "criteria": {
+      "has_item": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -9951,6 +10281,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-03-20 17:33:23 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/mossy_red_short_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -10248,6 +10584,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/cracked_red_brick_tiles_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_lead3": {
     "criteria": {
       "has_raw_lead": "2024-03-20 17:38:33 -0400"
@@ -10287,6 +10629,12 @@
   "everycomp:recipes/everycomp/sd/windswept/chestnut_trim": {
     "criteria": {
       "has_planks": "2024-03-26 16:44:26 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -10341,6 +10689,12 @@
   "blue_skies:recipes/decorations/anvil_compat": {
     "criteria": {
       "has_item": "2024-03-28 23:35:37 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_vertical_slab_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -11658,6 +12012,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2024-03-21 21:10:50 -0400"
@@ -12018,6 +12378,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/mcfur/twilightforest/stripped_time_double_drawer_counter": {
     "criteria": {
       "has_planks": "2024-03-31 23:51:16 -0400"
@@ -12177,6 +12543,12 @@
   "createdeco:recipes/createdeco.bricks/mossy_worn_short_bricks_slab_from_worn_bricks_stonecutting": {
     "criteria": {
       "has_worn_bricks": "2024-04-01 22:11:28 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_slab_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -12549,6 +12921,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-03-20 17:31:17 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -13218,6 +13596,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/cracked_worn_short_bricks_wall_from_worn_bricks_stonecutting": {
     "criteria": {
       "has_worn_bricks": "2024-04-01 22:11:28 -0400"
@@ -13257,6 +13641,18 @@
   "blue_skies:recipes/blue_skies_combat/aquite_leggings": {
     "criteria": {
       "has_item": "2024-03-28 23:36:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -13578,6 +13974,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/vertical_tinted_framed_glass_from_glass_tinted_stonecutting": {
+    "criteria": {
+      "has_glass_tinted": "2024-04-03 22:59:07 -0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/cracked_worn_long_bricks_from_worn_long_bricks_blasting": {
     "criteria": {
       "has_worn_long_bricks": "2024-04-01 22:11:06 -0400"
@@ -13677,6 +14079,12 @@
   "everycomp:recipes/everycomp/cfm/quark/stripped_blossom_mail_box": {
     "criteria": {
       "has_planks": "2024-03-31 22:23:39 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/chiseled_light_gray_terracotta_bricks": {
+    "criteria": {
+      "has_light_gray_terracotta_brick_slab": "2024-04-04 18:42:58 -0400"
     },
     "done": true
   },
@@ -13937,6 +14345,12 @@
   "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-03-22 22:10:37 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -14300,6 +14714,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/mcfur/twilightforest/time_table": {
     "criteria": {
       "has_planks": "2024-03-31 23:51:16 -0400"
@@ -14351,6 +14771,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-03-20 17:39:50 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_vertical_slab": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -14432,6 +14858,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/chiseled_light_gray_terracotta_bricks_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-03-20 23:35:30 -0400"
@@ -14447,6 +14879,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-03-20 17:15:12 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_brick_tiles_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -14990,6 +15428,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/light_gray_placard": {
+    "criteria": {
+      "has_dye": "2024-04-03 22:29:41 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-03-21 16:55:56 -0400"
@@ -15431,6 +15875,12 @@
   "everycomp:recipes/everycomp/mcfur/twilightforest/time_glass_table": {
     "criteria": {
       "has_planks": "2024-03-31 23:51:17 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -16058,6 +16508,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/cracked_red_short_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-03-20 23:35:30 -0400"
@@ -16316,6 +16772,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-03-20 17:12:17 -0400"
@@ -16511,6 +16973,12 @@
   "twilightforest:recipes/twilightforest/wood/canopy_wood": {
     "criteria": {
       "has_item": "2024-03-21 23:11:49 -0400"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2024-04-04 17:49:42 -0400"
     },
     "done": true
   },
@@ -16721,6 +17189,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-03-20 23:06:03 -0400"
@@ -16742,6 +17216,12 @@
   "aether_redux:recipes/transportation/cloudcap_boat": {
     "criteria": {
       "in_water": "2024-03-20 17:05:30 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -16790,6 +17270,12 @@
   "createdeco:recipes/createdeco.metals/copper_sheet_metal_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-04-02 22:40:40 -0400"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/tinted_framed_glass_from_glass_tinted_stonecutting": {
+    "criteria": {
+      "has_glass_tinted": "2024-04-03 22:59:07 -0400"
     },
     "done": true
   },
@@ -16898,6 +17384,12 @@
   "stoneworks:recipes/stoneworks.main/cracked_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-03-20 22:01:53 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/light_gray_terracotta_wall_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -17051,6 +17543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-04-03 22:29:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-03-20 20:19:52 -0400"
@@ -17096,6 +17594,12 @@
   "everycomp:recipes/everycomp/mcfur/quark/stripped_blossom_desk": {
     "criteria": {
       "has_planks": "2024-03-31 22:23:40 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_slab": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -17168,6 +17672,18 @@
   "createdeco:recipes/createdeco.bricks/worn_short_bricks_slab_from_worn_bricks_stonecutting": {
     "criteria": {
       "has_worn_bricks": "2024-04-01 22:11:28 -0400"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-04-03 22:44:50 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -17366,6 +17882,12 @@
   "everycomp:recipes/everycomp/mcfur/twilightforest/stripped_time_counter": {
     "criteria": {
       "has_planks": "2024-03-31 23:51:16 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/chiseled_bricks": {
+    "criteria": {
+      "has_item": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -17681,6 +18203,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/horizontal_tinted_framed_glass_from_glass_tinted_stonecutting": {
+    "criteria": {
+      "has_glass_tinted": "2024-04-03 22:59:07 -0400"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/birch_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-03-20 17:12:52 -0400"
@@ -17828,6 +18356,12 @@
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2024-03-25 21:15:22 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-04-04 21:51:36 -0400"
     },
     "done": true
   },
@@ -18143,6 +18677,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2024-03-20 17:12:52 -0400"
@@ -18422,6 +18962,12 @@
   "woodworks:recipes/building_blocks/mangrove_boards_from_mangrove_planks_sawing": {
     "criteria": {
       "has_mangrove_planks": "2024-03-28 22:40:46 -0400"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_stairs": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
     },
     "done": true
   },
@@ -18797,6 +19343,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/deepslate_castel_tile_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/mcfur/windswept/stripped_chestnut_chair": {
     "criteria": {
       "has_planks": "2024-03-26 16:44:25 -0400"
@@ -18972,6 +19524,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_andesite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_andesite_brick_slab": "2024-04-03 23:10:30 -0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/dean_short_bricks_stairs": {
     "criteria": {
       "has_dean_short_bricks": "2024-04-01 22:51:37 -0400"
@@ -18999,6 +19557,12 @@
   "createdeco:recipes/createdeco.bricks/worn_short_bricks_slab_from_worn_short_bricks_stonecutting": {
     "criteria": {
       "has_worn_short_bricks": "2024-04-01 22:51:50 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/mossy_red_long_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -19137,6 +19701,12 @@
   "createdeco:recipes/createdeco.bricks/mossy_worn_short_bricks_from_worn_bricks_stonecutting": {
     "criteria": {
       "has_worn_bricks": "2024-04-01 22:11:28 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_from_bricks_blasting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -19314,6 +19884,12 @@
     },
     "done": true
   },
+  "windswept:recipes/building_blocks/stripped_chestnut_wood": {
+    "criteria": {
+      "has_log": "2024-04-04 18:40:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-03-20 21:01:18 -0400"
@@ -19443,6 +20019,12 @@
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2024-03-20 17:46:29 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/mossy_red_brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -19729,6 +20311,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/light_gray_terracotta_bricks_from_light_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-04-03 22:33:01 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/cfm/twilightforest/stripped_time_mail_box": {
     "criteria": {
       "has_planks": "2024-03-31 23:51:17 -0400"
@@ -19804,6 +20392,12 @@
   "create:recipes/create.palettes/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-03-21 12:18:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -20080,6 +20674,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-03-20 17:33:23 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-04-04 21:51:37 -0400"
     },
     "done": true
   },
@@ -20574,6 +21174,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/pearl_brick": {
+    "criteria": {
+      "has_item": "2024-04-03 22:29:41 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-03-21 17:20:34 -0400"
@@ -20625,6 +21231,12 @@
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2024-03-21 12:36:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-04-03 22:30:25 -0400"
     },
     "done": true
   },
@@ -20778,6 +21390,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-03-20 17:39:51 -0400"
@@ -20787,6 +21405,12 @@
   "cfm:recipes/cfm/stripped_jungle_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-03-25 21:18:52 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_long_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -20877,6 +21501,7 @@
       "cooked_mutton": "2024-03-21 12:51:56 -0400",
       "apple": "2024-03-20 17:12:17 -0400",
       "abnormals_delight:barbecue_stick": "2024-03-21 22:54:27 -0400",
+      "abnormals_delight:egg_sandwich": "2024-04-04 20:58:41 -0400",
       "neapolitan:banana": "2024-03-26 16:31:20 -0400",
       "abnormals_delight:cooked_bacon": "2024-03-26 19:09:41 -0400",
       "bread": "2024-03-21 11:48:27 -0400",
@@ -21056,6 +21681,18 @@
   "everycomp:recipes/everycomp/af/ecologics/coconut_chair": {
     "criteria": {
       "has_planks": "2024-03-20 19:57:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-04-03 22:59:39 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },
@@ -21296,6 +21933,12 @@
   "aether_redux:recipes/transportation/glacia_boat": {
     "criteria": {
       "in_water": "2024-03-20 17:05:30 -0400"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-04-04 18:15:31 -0400"
     },
     "done": true
   },
@@ -21557,6 +22200,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/bricks": {
+    "criteria": {
+      "has_copper_block": "2024-04-04 18:15:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-03-20 17:18:57 -0400"
@@ -21602,6 +22251,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/magenta_floor_chair": {
     "criteria": {
       "has_seat": "2024-03-23 20:26:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-04-04 22:02:28 -0400"
     },
     "done": true
   },
@@ -21848,6 +22503,12 @@
   "cfm:recipes/cfm/jungle_desk": {
     "criteria": {
       "has_log": "2024-03-25 21:18:52 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-04-04 18:15:30 -0400"
     },
     "done": true
   },

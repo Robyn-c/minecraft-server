@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2024-04-04 22:18:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-03-28 22:22:28 -0400"
@@ -1083,6 +1089,12 @@
   "cfm:recipes/cfm/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-03-25 21:52:42 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
     },
     "done": true
   },
@@ -2285,6 +2297,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/bp/ecologics/walnut_backpack_shelf": {
     "criteria": {
       "has_planks": "2024-03-24 20:41:03 -0400"
@@ -2420,6 +2438,12 @@
   "everycomp:recipes/everycomp/af/environmental/wisteria_drawer": {
     "criteria": {
       "has_planks": "2024-03-21 17:12:12 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
     },
     "done": true
   },
@@ -2813,6 +2837,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/chipped/glassblower_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/iron_nugget": {
     "criteria": {
       "has_copper_block": "2024-03-28 22:53:03 -0400"
@@ -2978,6 +3008,12 @@
   "everycomp:recipes/everycomp/db/twilightforest/twilight_oak_seat": {
     "criteria": {
       "has_planks": "2024-03-21 17:21:30 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
     },
     "done": true
   },
@@ -3237,6 +3273,12 @@
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2024-03-20 21:18:03 -0400"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -3603,6 +3645,12 @@
   "incubation:recipes/decorations/hay_nest": {
     "criteria": {
       "has_wheat": "2024-03-20 23:13:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-04-03 23:17:10 -0400"
     },
     "done": true
   },
@@ -4428,6 +4476,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/chipped/tinkerer_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/copper_trapdoor": {
+    "criteria": {
+      "has_item": "2024-04-04 21:42:34 -0400"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-03-27 21:27:10 -0400"
@@ -4437,6 +4497,12 @@
   "handcrafted:recipes/misc/pink_sheet_single": {
     "criteria": {
       "has_sheet": "2024-03-26 16:18:22 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
     },
     "done": true
   },
@@ -4794,6 +4860,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_catwalk": {
+    "criteria": {
+      "has_item": "2024-04-04 22:18:15 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/twilightforest/twilight_oak_shelf": {
     "criteria": {
       "has_planks": "2024-03-21 17:21:30 -0400"
@@ -5028,6 +5100,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/limited_copper_barrel_1": {
+    "criteria": {
+      "has_limited_barrel_1": "2024-04-04 22:15:04 -0400"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/glacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-03-21 19:25:14 -0400"
@@ -5181,6 +5259,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-03-26 19:09:36 -0400"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -5352,6 +5436,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_hedge": {
+    "criteria": {
+      "has_leaves": "2024-04-03 23:41:37 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
       "has_iron_ingot": "2024-03-20 17:37:15 -0400"
@@ -5505,6 +5595,12 @@
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-03-20 18:18:15 -0400"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_light_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-04-04 22:18:23 -0400"
     },
     "done": true
   },
@@ -6179,6 +6275,12 @@
     },
     "done": true
   },
+  "create:recipes/food/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2024-04-04 22:21:47 -0400"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/dripstone_castel_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-03-20 21:12:17 -0400"
@@ -6521,6 +6623,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/copper_door": {
+    "criteria": {
+      "has_item": "2024-04-04 21:42:34 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/c/quark/blossom_window_pane": {
     "criteria": {
       "has_planks": "2024-03-20 20:24:39 -0400"
@@ -6530,6 +6638,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_ladder": {
     "criteria": {
       "has_item": "2024-03-28 23:23:53 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/chipped/carpenter_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
     },
     "done": true
   },
@@ -6839,6 +6953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-04 22:19:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-03-26 15:11:13 -0400"
@@ -6890,6 +7010,12 @@
   "everycomp:recipes/everycomp/cfm/ecologics/walnut_kitchen_sink_light": {
     "criteria": {
       "has_planks": "2024-03-24 21:49:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-04-03 23:17:10 -0400"
     },
     "done": true
   },
@@ -7367,6 +7493,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-04-04 22:18:23 -0400"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/dripstone_castel_tile_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-03-20 21:12:17 -0400"
@@ -7526,6 +7658,12 @@
   "everycomp:recipes/everycomp/cfm/atmospheric/aspen_mail_box": {
     "criteria": {
       "has_planks": "2024-03-27 18:24:50 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-03 23:16:49 -0400"
     },
     "done": true
   },
@@ -7697,6 +7835,12 @@
     },
     "done": true
   },
+  "create:recipes/food/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2024-04-04 22:21:47 -0400"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2024-03-20 17:37:54 -0400"
@@ -7787,6 +7931,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-03-20 17:09:28 -0400"
@@ -7802,6 +7952,12 @@
   "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-03-26 15:03:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-04 22:19:35 -0400"
     },
     "done": true
   },
@@ -8376,6 +8532,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/c/byg/nightshade_window": {
     "criteria": {
       "has_planks": "2024-03-21 17:21:08 -0400"
@@ -8385,6 +8547,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-03-20 17:05:44 -0400"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_leaf_pile": {
+    "criteria": {
+      "has_dark_oak_leaves": "2024-04-03 23:41:37 -0400"
     },
     "done": true
   },
@@ -8451,6 +8619,12 @@
   "everycomp:recipes/everycomp/mcfur/twilightforest/stripped_time_covered_desk": {
     "criteria": {
       "has_planks": "2024-03-31 23:41:14 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
     },
     "done": true
   },
@@ -8730,6 +8904,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/byg/zelkova_table": {
     "criteria": {
       "has_planks": "2024-03-21 17:13:01 -0400"
@@ -8763,6 +8943,12 @@
   "everycomp:recipes/everycomp/fd/twilightforest/mangrove_cabinet": {
     "criteria": {
       "has_planks": "2024-03-21 17:21:32 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-03 23:16:49 -0400"
     },
     "done": true
   },
@@ -8919,6 +9105,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_wall": {
     "criteria": {
       "has_item": "2024-03-28 23:24:27 -0400"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -9132,6 +9324,12 @@
     },
     "done": false
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2024-04-04 22:09:58 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/mcfur/twilightforest/stripped_twilight_oak_modern_desk": {
     "criteria": {
       "has_planks": "2024-03-27 18:24:55 -0400"
@@ -9297,6 +9495,12 @@
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-03-26 15:03:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-04-04 22:18:23 -0400"
     },
     "done": true
   },
@@ -9522,6 +9726,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-03-26 15:54:49 -0400"
@@ -9720,6 +9930,12 @@
     },
     "done": true
   },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2024-04-04 21:42:30 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-03-21 17:42:24 -0400"
@@ -9741,6 +9957,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_chest": {
     "criteria": {
       "has_item": "2024-03-28 23:23:53 -0400"
+    },
+    "done": true
+  },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-04-04 22:19:55 -0400"
     },
     "done": true
   },
@@ -10705,6 +10927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-04 22:19:35 -0400"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_picket_gate": {
     "criteria": {
       "has_gate": "2024-03-24 21:49:31 -0400"
@@ -11125,6 +11353,12 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2024-04-03 23:16:49 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/byg/rainbow_eucalyptus_seat": {
     "criteria": {
       "has_planks": "2024-03-21 17:21:17 -0400"
@@ -11248,6 +11482,12 @@
   "everycomp:recipes/everycomp/mcfur/twilightforest/mangrove_desk": {
     "criteria": {
       "has_planks": "2024-03-27 18:24:29 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-03 23:16:49 -0400"
     },
     "done": true
   },
@@ -11440,6 +11680,12 @@
   "everycomp:recipes/everycomp/mcfur/atmospheric/stripped_yucca_bookshelf_drawer": {
     "criteria": {
       "has_planks": "2024-03-27 21:40:00 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
     },
     "done": true
   },
@@ -11731,6 +11977,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_button_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 17:12:04 -0400"
@@ -11929,6 +12181,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/blue_zinc_lamp": {
+    "criteria": {
+      "has_item": "2024-04-04 22:18:15 -0400"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-03-25 21:52:42 -0400"
@@ -12118,6 +12376,12 @@
   "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2024-03-21 21:04:21 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_mesh_fence": {
+    "criteria": {
+      "has_item": "2024-04-04 22:18:15 -0400"
     },
     "done": true
   },
@@ -12571,6 +12835,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/green_zinc_lamp": {
+    "criteria": {
+      "has_item": "2024-04-04 22:18:15 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/mcfur/atmospheric/stripped_yucca_desk": {
     "criteria": {
       "has_planks": "2024-03-27 21:40:00 -0400"
@@ -12799,6 +13069,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/copper_bars_from_copper_ingot_stonecutting": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-04 21:42:34 -0400"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_planter_box": {
     "criteria": {
       "has_slab": "2024-03-20 20:30:40 -0400"
@@ -12856,6 +13132,12 @@
   "create:recipes/building_blocks/smelting/glass_from_tiled_glass": {
     "criteria": {
       "has_item": "2024-03-20 21:03:58 -0400"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -13048,6 +13330,12 @@
   "twilightdelight:recipes/twilightforest/maze_wafer": {
     "criteria": {
       "has_liveroot": "2024-03-23 18:33:09 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/copper_hull": {
+    "criteria": {
+      "has_item": "2024-04-04 21:42:34 -0400"
     },
     "done": true
   },
@@ -13399,6 +13687,12 @@
     },
     "done": true
   },
+  "create:recipes/food/smelting/bread": {
+    "criteria": {
+      "has_item": "2024-04-04 22:21:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-03-20 20:30:14 -0400"
@@ -13528,6 +13822,12 @@
   "everycomp:recipes/everycomp/cfm/phantasm/stripped_pream_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-03-27 18:24:36 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-04-04 21:57:32 -0400"
     },
     "done": true
   },
@@ -14737,6 +15037,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/chipped/shepherd_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/upgrade_aquatic/driftwood_support": {
     "criteria": {
       "has_planks": "2024-03-22 21:47:16 -0400"
@@ -14935,6 +15241,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/spruce_bark": {
     "criteria": {
       "has_copper_block": "2024-03-24 21:58:00 -0400"
@@ -15004,6 +15316,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-03-20 17:31:35 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
     },
     "done": true
   },
@@ -15439,6 +15757,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-04-04 22:19:55 -0400"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/chocolate_pie_from_slices": {
     "criteria": {
       "has_chocolate_pie_slice": "2024-03-25 22:11:20 -0400"
@@ -15478,6 +15802,12 @@
   "everycomp:recipes/everycomp/tf/byg/rainbow_eucalyptus_banister": {
     "criteria": {
       "has_planks": "2024-03-21 17:21:17 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/chipped/mason_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
     },
     "done": true
   },
@@ -15637,6 +15967,12 @@
     },
     "done": false
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
+    },
+    "done": true
+  },
   "railways:recipes/railways/crafting/smokestack_woodburner": {
     "criteria": {
       "has_item": "2024-03-21 22:08:59 -0400"
@@ -15670,6 +16006,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-03-20 21:08:49 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2024-04-04 22:16:58 -0400"
     },
     "done": true
   },
@@ -15799,6 +16141,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
+    },
+    "done": true
+  },
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2024-03-20 17:08:34 -0400"
@@ -15910,6 +16258,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-03-26 20:23:45 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
     },
     "done": true
   },
@@ -16120,6 +16474,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-03-24 21:49:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-04-04 22:19:35 -0400"
     },
     "done": true
   },
@@ -16498,6 +16858,12 @@
   "everycomp:recipes/everycomp/mcfur/atmospheric/yucca_double_drawer_counter": {
     "criteria": {
       "has_planks": "2024-03-27 21:40:00 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/copper_bars": {
+    "criteria": {
+      "has_item": "2024-04-04 21:42:34 -0400"
     },
     "done": true
   },
@@ -16915,6 +17281,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/light_gray_placard": {
+    "criteria": {
+      "has_dye": "2024-04-04 22:18:23 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/cfm/twilightforest/time_cabinet": {
     "criteria": {
       "has_planks": "2024-03-31 23:41:14 -0400"
@@ -17068,6 +17440,12 @@
   "everycomp:recipes/everycomp/cfm/twilightforest/time_blinds": {
     "criteria": {
       "has_planks": "2024-03-31 23:41:14 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_ladder_from_plates_zinc_stonecutting": {
+    "criteria": {
+      "has_plates_zinc": "2024-04-04 22:18:15 -0400"
     },
     "done": true
   },
@@ -17275,6 +17653,12 @@
     },
     "done": true
   },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2024-04-03 23:17:21 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/mcfur/twilightforest/time_drawer": {
     "criteria": {
       "has_planks": "2024-03-31 23:41:14 -0400"
@@ -17473,6 +17857,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/tf/byg/holly_banister": {
     "criteria": {
       "has_planks": "2024-03-21 17:21:10 -0400"
@@ -17656,6 +18046,12 @@
   "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-03-26 20:23:45 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2024-04-04 22:19:55 -0400"
     },
     "done": true
   },
@@ -17935,6 +18331,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/dark_oak_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-04-03 23:41:37 -0400"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-03-24 21:49:31 -0400"
@@ -18058,6 +18460,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-03-24 21:57:29 -0400"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -18358,6 +18766,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-03-20 17:09:28 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/light_gray_decal": {
+    "criteria": {
+      "has_dye": "2024-04-04 22:18:23 -0400"
     },
     "done": true
   },
@@ -19606,6 +20020,12 @@
     },
     "done": true
   },
+  "create:recipes/food/smoking/bread": {
+    "criteria": {
+      "has_item": "2024-04-04 22:21:47 -0400"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_slab": {
     "criteria": {
       "has_planks": "2024-03-24 20:41:03 -0400"
@@ -19927,6 +20347,12 @@
   "environmental:recipes/decorations/wisteria_ladder": {
     "criteria": {
       "has_stick": "2024-03-20 17:14:59 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2024-04-04 22:16:58 -0400"
     },
     "done": true
   },
@@ -20296,6 +20722,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-04-04 21:40:48 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-03-26 20:23:45 -0400"
@@ -20542,6 +20974,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/red_zinc_lamp": {
+    "criteria": {
+      "has_item": "2024-04-04 22:18:15 -0400"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/acacia_ladder": {
     "criteria": {
       "has_stick": "2024-03-20 17:14:59 -0400"
@@ -20629,6 +21067,12 @@
   "design_decor:recipes/design_decor/limestone_castel_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-03-26 15:54:49 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -21581,6 +22025,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/yellow_zinc_lamp": {
+    "criteria": {
+      "has_item": "2024-04-04 22:18:15 -0400"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2024-03-20 18:18:15 -0400",
@@ -22104,6 +22554,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-04-04 22:19:55 -0400"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/springshroom_chest_boat": {
     "criteria": {
       "has_boat": "2024-03-21 19:25:14 -0400"
@@ -22201,6 +22657,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:15 -0400"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/white_mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-03-21 19:25:14 -0400"
@@ -22295,6 +22757,12 @@
   "everycomp:recipes/everycomp/mcfur/phantasm/stripped_pream_bookshelf": {
     "criteria": {
       "has_planks": "2024-03-27 18:24:36 -0400"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -22610,6 +23078,12 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-03 23:16:49 -0400"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-03-20 17:30:45 -0400"
@@ -22625,6 +23099,12 @@
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2024-03-25 17:35:39 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/chipped/philosopher_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-04 22:32:16 -0400"
     },
     "done": true
   },
@@ -22670,6 +23150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2024-04-04 22:18:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-03-20 20:39:06 -0400"
@@ -22697,6 +23183,12 @@
   "everycomp:recipes/everycomp/cfm/twilightforest/canopy_chair": {
     "criteria": {
       "has_planks": "2024-03-24 22:57:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-04 22:19:35 -0400"
     },
     "done": true
   },
@@ -22886,6 +23378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-04-03 23:17:10 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/faf/byg/palm_beehive": {
     "criteria": {
       "has_planks": "2024-03-20 22:25:17 -0400"
@@ -22922,6 +23420,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-04-04 21:40:48 -0400"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
     "criteria": {
       "has_book": "2024-03-26 15:45:48 -0400"
@@ -22952,6 +23456,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/white_decal": {
+    "criteria": {
+      "has_dye": "2024-04-04 22:19:35 -0400"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-03-20 17:08:34 -0400"
@@ -22961,6 +23471,12 @@
   "everycomp:recipes/everycomp/mcfur/atmospheric/stripped_aspen_wardrobe": {
     "criteria": {
       "has_planks": "2024-03-27 18:24:50 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -23120,6 +23636,12 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2024-04-03 23:17:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-03-20 17:12:44 -0400"
@@ -23183,6 +23705,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/gold_to_diamond_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2024-03-26 19:11:27 -0400"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
     },
     "done": true
   },
@@ -23448,6 +23976,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/pearl_brick": {
+    "criteria": {
+      "has_item": "2024-04-04 22:18:23 -0400"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
     "criteria": {
       "has_resource": "2024-03-28 23:24:27 -0400"
@@ -23517,6 +24051,12 @@
   "everycomp:recipes/everycomp/mcfur/windswept/stripped_chestnut_bookshelf_cupboard": {
     "criteria": {
       "has_planks": "2024-03-25 18:01:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-04 22:19:35 -0400"
     },
     "done": true
   },
@@ -24042,6 +24582,12 @@
   "everycomp:recipes/everycomp/db/phantasm/pream_palisade": {
     "criteria": {
       "has_planks": "2024-03-21 17:21:21 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/limited_iron_barrel_1": {
+    "criteria": {
+      "has_limited_barrel_1": "2024-04-04 22:15:04 -0400"
     },
     "done": true
   },
@@ -24687,6 +25233,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-04-03 23:17:21 -0400"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_door_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-03-20 21:48:48 -0400"
@@ -24798,6 +25350,12 @@
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-03-20 20:30:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2024-04-04 22:21:47 -0400"
     },
     "done": true
   },
